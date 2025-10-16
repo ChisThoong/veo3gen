@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Veo3 Ultra Flow Client",
+  "description": "A client-side application to manage and generate videos using the Veo3 Ultra Flow API. Users provide their own Bearer Token to interact with their projects, create videos, monitor progress, and download results. All data is stored locally in the browser for security and privacy.",
+  "requestFramePermissions": []
+}
